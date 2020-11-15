@@ -1,5 +1,14 @@
 # Ceramic Web Playground
 
+To run project:
+1. Install dependencies by running: `npm install`
+
+2. Then to run just execute with: `serve . `
+
+If you don't have MetaMask installed in your browser, you won't see the option to connect your MetaMask account. 
+
+
+
 Simple Web setup using the following technologies:
 
 - [IPFS](https://ipfs.io/), used by `Ceramic`
